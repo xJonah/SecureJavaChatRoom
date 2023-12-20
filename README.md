@@ -1,5 +1,3 @@
 # SecureJavaChatRoom
 
-Coursework for my Secure Network Services module
-
-Created using Java
+TCP Chat Room created using Java. Security features implented include SSL/TLS, password authentication, DoS protection, and spam timeouts.
